@@ -22,10 +22,10 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 
 ## 🌟 Quote I Live By
 
