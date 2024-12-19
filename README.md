@@ -1,6 +1,6 @@
-## Hi there, I'm Anushree 👋
+## Hey 👋, I'm Anushree!
 
-I’m a 3rd Year B.Tech. student in Information Technology, passionate about everything related to Software Development and AI! I'm constantly learning how to build something new and exciting while improving my skills in programming and problem-solving.
+I’m an undergraduate at Manipal Institute of Technology, passionate about everything related to Software Development and AI! I'm constantly learning how to build something new and exciting while improving my skills in programming and problem-solving.
 
 - 🔭 I’m currently working on [CrackTheCode](https://crackthecode-v1.vercel.app/), a platform that helps users learn and practice Data Structures and Algorithms (DSA). 
 - 🚀 I recently built [VerbToneAI](https://github.com/anushreejha/VerbToneAI), a voice assistant that utilizes Natural Language Processing (NLP) to understand and respond to user commands, making everyday tasks more efficient.
