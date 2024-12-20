@@ -10,7 +10,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 
 <h2> Techs I Use </h2>
 
-<div>
+<div align="center">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
@@ -34,7 +34,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 
 <h2> Connect With Me </h2>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/anushreejha/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="30px"/></a>
   <a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="30px"/></a>
 </div>
