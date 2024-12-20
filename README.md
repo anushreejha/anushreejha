@@ -11,19 +11,19 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <div align="center">
 <h2> Techs I Use </h2>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 </div>
 
 <h2> My Stats </h2> 
@@ -35,11 +35,11 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <div align="center">
 <h2> Connect With Me </h2>
 
-<a href="https://www.linkedin.com/in/anushreejha/" target="_blank">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="30px" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/anushreejha/">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="35px" alt="LinkedIn"/>
 </a>
 <a href="mailto:dj.jarout@gmail.com">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="30px" alt="Gmail"/>
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="35px" alt="Gmail"/>
 </a>
 </div>
 
