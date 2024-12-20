@@ -34,3 +34,21 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical" width=750  alt="stats graph"/>
 </div>
 
+<h2 align="center">Find Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/1077472454563332157" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  
+  <a href="https://stackoverflow.com/users/19914762/abtrax" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  /></a>
+</div>
+
+###
+
+<h2> Connect With Me </h2>
+
+<a href="https://www.linkedin.com/in/anushreejha/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="30px"/></a>
+<a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="30px"/></a>
+
+###
