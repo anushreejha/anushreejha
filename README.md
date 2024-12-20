@@ -11,7 +11,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 - 📌 I recently built [VerbToneAI](https://github.com/anushreejha/VerbToneAI), a voice assistant that utilizes Natural Language Processing (NLP) to understand and respond to user commands, making everyday tasks more efficient.
 - 📌 I’m currently learning how to build different AI models.
 
-## Techs I Use
+<h2> Techs I Use </h2>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
@@ -28,6 +28,6 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 
 
-## My Stats
+<h2> My Stats </h2> 
 
-[![Anushree's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical)
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical)
