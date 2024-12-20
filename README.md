@@ -34,7 +34,12 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 
 <h2> Connect With Me </h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anushreejha/"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="30px"/></a>
-  <a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="30px"/></a>
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/anushreejha/" target="_blank">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" width="30px" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dj.jarout@gmail.com">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="30px" alt="Gmail"/>
+  </a>
 </div>
+
