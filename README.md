@@ -30,4 +30,4 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 
 <h2> My Stats </h2> 
 
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical)
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical)
