@@ -1,3 +1,7 @@
+<div align="center">
+<h2> <𝙷𝚎𝚕𝚕𝚘, 𝚠𝚘𝚛𝚕𝚍!/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h2>
+</div>
+
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anushree!
 
 I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm passionate about everything related to Software Development and AI! 
