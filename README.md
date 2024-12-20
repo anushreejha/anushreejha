@@ -26,10 +26,10 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 </div>
 
-<h2> My Stats </h2> 
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical" width=750  alt="stats graph"/>
+<h2> My Stats </h2> 
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical" width=750  alt="stats graph"/>
 </div>
 
 <div align="center">
