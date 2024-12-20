@@ -27,11 +27,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 
-## 🌟 Quote I Live By
 
-> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
-> — *Harold Abelson*
-
-## 📈 Stats
+## Stats
 
 [![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushreejha&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anushreejha/)
