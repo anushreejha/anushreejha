@@ -10,10 +10,8 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 - 📌 I’m currently working on [CrackTheCode](https://crackthecode-v1.vercel.app/), a platform that helps users learn and practice Data Structures and Algorithms. 
 - 📌 I recently built [VerbToneAI](https://github.com/anushreejha/VerbToneAI), a voice assistant that utilizes Natural Language Processing (NLP) to understand and respond to user commands, making everyday tasks more efficient.
 - 📌 I’m currently learning how to build different AI models.
-  
-- 📫 How to reach me: [anushreejha0604@gmail.com](mailto:anushreejha0604@gmail.com)
 
-## My Skills
+## Techs I Use
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
@@ -30,6 +28,6 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/web/web.png"></code>
 
 
-## Stats
+## My Stats
 
-[![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushreejha&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anushreejha/)
+[![Anushree's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushreejha&theme=radical)
