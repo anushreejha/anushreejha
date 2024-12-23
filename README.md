@@ -6,7 +6,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 
 - I’m currently working on [CrackTheCode](https://crackthecode-v1.vercel.app/), a platform that helps users learn and practice Data Structures and Algorithms. 
 - I recently built [VerbToneAI](https://github.com/anushreejha/VerbToneAI), a voice assistant that utilizes Natural Language Processing (NLP) to understand and respond to user commands, making everyday tasks more efficient.
-- I’m currently learning how to build different AI models.
+- I’m currently learning about CI/CD.
 
 <div align="center">
 <h2> Techs I Use </h2>
