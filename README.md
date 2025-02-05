@@ -4,9 +4,6 @@
 
 I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm passionate about everything related to Software Development and AI! 
 
-- I have recently been working on [VerbToneAI](https://github.com/anushreejha/VerbToneAI), a voice assistant that utilizes Natural Language Processing (NLP) to understand and respond to user commands, making everyday tasks more efficient.
-- I'm currently learning about DevOps frameworks.
-  
 <div align="center">
 <h2> Techs I Use </h2>
 
