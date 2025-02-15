@@ -29,7 +29,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
   <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" width="35px" alt="LinkedIn"/>
 </a>
 <a href="mailto:dj.jarout@gmail.com">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" width="35px" alt="Gmail"/>
+  <img src="https://github.com/lefevrej/Logos-for-gmail-signature/blob/main/icons/github.png" width="35px" alt="Gmail"/>
 </a>
 </div>
 
