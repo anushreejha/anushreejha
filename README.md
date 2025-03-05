@@ -28,7 +28,7 @@ I’m a 3rd year B.Tech. in IT student at Manipal Institute of Technology. I'm p
 <a href="https://www.linkedin.com/in/anushreejha/">
   <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" width="35px" alt="LinkedIn"/>
 </a>
-<a href="mailto:dj.jarout@gmail.com">
+<a href="mailto:anushreejha@outlook.com">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="35px" alt="Gmail"/>
 </a>
 </div>
