@@ -6,15 +6,11 @@ I'm a final-year B.Tech student at Manipal Institute of Technology, passionate a
 
 Currently working on chatbots, NLP projects, and cloud-based AI solutions. Previously interned at Amazon and Intel.
 
----
-
 ## 🔧 What I Work With
 
 **Languages:** Python, Java, JavaScript, SQL  
 **AI/ML:** NLP, Dialogflow, TensorFlow, LLMs  
 **Cloud:** AWS, Google Cloud Platform, Docker
-
----
 
 ## 🚀 Projects
 
@@ -27,9 +23,7 @@ Voice-activated AI assistant with speech-to-text, wake-word detection, and real-
 ### 📚 [CrackTheCode](https://github.com/anushreejha/CrackTheCode)
 DSA learning platform with visualizations and progress tracking built with Node.js and MongoDB.
 
----
-
-## 📫 Connect
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushreejha/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:anushreejha0604@gmail.com)
